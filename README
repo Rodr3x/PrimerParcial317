@@ -1,0 +1,51 @@
+Ejecucion de los codigos
+
+Ejercicio 1
+    gcc aritmetica.c -o aritmetica
+    ./aritmetica 
+
+Ejercicio 2
+     g++ aritmetica.cpp -o aritmetica
+    ./aritmetica 
+
+Ejercicio 3
+    gcc -fopenmp aritmetica.c -o aritmetica
+    ./aritmetica 
+
+Ejercicio 4
+    gcc -fopenmp matriz.c -o matriz 
+    ./matriz
+
+Ejercicio 5
+    mpicc matriz.c -o matriz
+    mpirun -np *num_proc* ./matriz
+
+Ejercicio 6
+    mpicc pi.c -o pi
+    mpirun -np *num_proc* ./pi
+
+Ejercicio 7
+    subir a colab
+
+Ejercicio 8
+
+Ejercicio 9
+
+Ejercicio 10 
+    subir a colab
+
+Ejercicio 11
+    importar a vs
+
+Ejercicio 12
+    mpicc fibo.c -o fibo
+    mpirun -np *num_proc* ./fibo
+
+Ejercicio 13
+    subir a colab
+
+Ejercicio 14
+    pdf
+
+Ejercicio 15
+    subir a colab
