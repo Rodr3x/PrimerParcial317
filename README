@@ -28,8 +28,12 @@ Ejercicio 7
     subir a colab
 
 Ejercicio 8
+    gcc -fopenmp serie.c -o serie 
+    ./serie
 
 Ejercicio 9
+    mpicc serie.c -o serie
+    mpirun -np *num_proc* ./serie
 
 Ejercicio 10 
     subir a colab
