@@ -1,0 +1,6 @@
+C:\Users\rodri\Desktop\ejercicio11\Calculo\bin\Debug\Calculo.dll
+C:\Users\rodri\Desktop\ejercicio11\Calculo\bin\Debug\Calculo.pdb
+C:\Users\rodri\Desktop\ejercicio11\Calculo\obj\Debug\Calculo.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\ejercicio11\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\ejercicio11\Calculo\obj\Debug\Calculo.dll
+C:\Users\rodri\Desktop\ejercicio11\Calculo\obj\Debug\Calculo.pdb

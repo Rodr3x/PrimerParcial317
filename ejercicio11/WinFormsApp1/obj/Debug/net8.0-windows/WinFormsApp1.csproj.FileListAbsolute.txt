@@ -1,0 +1,53 @@
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\rodri\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\rodri\Desktop\EXAMEN 1ER PARCIAL 317\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\Calculo.dll
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\bin\Debug\net8.0-windows\Calculo.pdb
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\rodri\Desktop\ejercicio11\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
