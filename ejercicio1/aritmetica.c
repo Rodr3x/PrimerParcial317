@@ -9,11 +9,12 @@ int resta(int *a, int *b) {
 }
 
 int multiplicacion(int *a, int *b) {
-    int resultado = 0;
-    for (int i = 0; i < *b; i++) {
-        resultado += *a;
+    int r = 0;
+    int uno = 1;
+    for (int i = 0; i < *b; i = suma(&i, &uno)) {
+        r = suma(&r, a);
     }
-    return resultado;
+    return r;
 }
 
 float division(int *a, int *b) {
@@ -21,13 +22,14 @@ float division(int *a, int *b) {
         printf("Error: División por cero\n");
         return 0;
     }
-    float resultado = 0;
-    float temp = *a;
+    int r = 0;
+    int temp = *a;
+    int uno = 1;
     while (temp >= *b) {
-        temp -= *b;
-        resultado++;
+        temp = resta(&temp, b);
+        r = suma(&r, &uno);
     }
-    return resultado;
+    return (float)r;
 }
 
 int main() {
